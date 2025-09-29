@@ -143,6 +143,13 @@ pip install pandas numpy matplotlib seaborn
 3. Run Jupyter notebooks in `notebooks/` or scripts in `scripts/`.
 
 ---
+> 🖼️ **Screenshot / GIF Placeholder:**
+
+<img width="695" height="547" alt="image" src="https://github.com/user-attachments/assets/8a5a3614-4947-4fcf-a0fd-93323f07467a" />
+<img width="776" height="682" alt="image" src="https://github.com/user-attachments/assets/5585d1bc-7b93-4ce5-b813-a08fa10abff7" />
+
+
+---
 
 ## 🤝 Contributing
 
@@ -164,15 +171,15 @@ Fork → branch → pull request.
 
 ## 📄 License
 
-MIT License © 2025 | Your Name
+MIT License © 2025 | Ruksana Shaikh
 
 ---
 
 ## 📬 Contact
 
-* GitHub: [your-username](https://github.com/your-username)
-* Email: [your-email@example.com](mailto:your-email@example.com)
-
+**GitHub**: (https://github.com/Ruksana-shaikh)
+**Email**: (mailto: shaikhruksana.k@gmail.com)
+**Linkedin**: (https://www.linkedin.com/in/ruksana-ks)
 ---
 
 ✨ **Sail through data like a Titanic survivor! 🚢**
