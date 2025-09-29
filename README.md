@@ -177,9 +177,9 @@ MIT License © 2025 | Ruksana Shaikh
 
 ## 📬 Contact
 
-**GitHub**: (https://github.com/Ruksana-shaikh)
-**Email**: (mailto: shaikhruksana.k@gmail.com)
-**Linkedin**: (https://www.linkedin.com/in/ruksana-ks)
+**GitHub: (https://github.com/Ruksana-shaikh)
+**Email: (mailto: shaikhruksana.k@gmail.com)
+**Linkedin: (https://www.linkedin.com/in/ruksana-ks)
 ---
 
 ✨ **Sail through data like a Titanic survivor! 🚢**
